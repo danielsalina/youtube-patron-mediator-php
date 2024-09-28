@@ -1,0 +1,3 @@
+# Patrón Mediator en PHP: Simplifica la Comunicación entre Objetos y Mejora la Cohesión
+
+- En este tutorial aprenderás a implementar el Patrón Mediator en PHP para gestionar la comunicación entre objetos de manera más eficiente y organizada. Verás cómo este patrón reduce las dependencias directas entre componentes, mejorando la cohesión y facilitando el mantenimiento del código. Con ejemplos claros y un enfoque práctico, dominarás cómo simplificar interacciones complejas y crear sistemas más escalables y fáciles de modificar. ¡Empieza a aplicar el Patrón Mediator y lleva tu código al siguiente nivel!
